@@ -1,0 +1,30 @@
+Package: com.teamwallx.wallxopen
+Name: Wallxopen
+Description: An awesome MobileSubstrate tweak!
+Maintainer: x3
+Author: x3
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Version: 0.0.1-2+debug
+Installed-Size: 212
+Filename: debs/com.teamwallx.wallxopen_0.0.1-2+debug_iphoneos-arm.deb
+Size: 472
+MD5sum: e676daa0050200ba6c7361ae337c1cb7
+SHA256: 790478c469fdf93664413678aae83f7129570e1a4791fc8640721eefedb1b47e
+
+Package: com.teamwallx.wallxopen
+Name: Wallxopen
+Description: An awesome MobileSubstrate tweak!
+Maintainer: x3
+Author: x3
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Version: 0.0.1-3+debug
+Installed-Size: 212
+Filename: debs/com.teamwallx.wallxopen_0.0.1-3+debug_iphoneos-arm.deb
+Size: 472
+MD5sum: d3270cc86bb7fbded54a55fb3cc256e2
+SHA256: 62fd8bdde39757463e1901f92a415b38ec775175ad8bfcbc7dd43dad5842e602
+
